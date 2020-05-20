@@ -1,0 +1,4 @@
+Pages\RegisterPage.class
+TestCases\HomePageTest.class
+TestCases\RegisterPageTest.class
+Pages\HomePage.class
