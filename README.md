@@ -3,6 +3,7 @@
 ### Environment required
  - Java 8 or above
  - Maven installed
+ - Only support run on window
  
 ### Run test
 From project run command line
